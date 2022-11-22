@@ -16,6 +16,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2Hl4WdjlRH89pBI7gbeRLG3A7yV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,7 +41,8 @@
       <option name="presentableId" value="Default" />
       <updated>1668846370803</updated>
       <workItem from="1668846372072" duration="1879000" />
-      <workItem from="1668910641820" duration="303000" />
+      <workItem from="1668910641820" duration="2692000" />
+      <workItem from="1669100403652" duration="984000" />
     </task>
     <task id="LOCAL-00001" summary="Часть 1">
       <created>1668847832057</created>
@@ -47,7 +51,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668847832058</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Часть 1">
+      <created>1668910956017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668910956017</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
